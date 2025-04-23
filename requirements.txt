@@ -1,0 +1,7 @@
+scapy
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
+joblib
